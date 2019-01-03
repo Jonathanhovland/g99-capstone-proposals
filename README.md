@@ -43,7 +43,7 @@ This does not need to be your absolute final ERD. We want you thinking about you
 * **You can draw it out & take a picture (quickest option) or use:**
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
-<img src="img/"/>
+<img src="img/erd.jpg"/>
 
 
 ## Wireframes
@@ -57,4 +57,4 @@ Inlcude some wireframes of your project.
 
 Do not spend more than 2 hours on your wireframes.
 
-<img src="img/wire-frame"/>
+<img src="img/wire-frame.jpg"/>
