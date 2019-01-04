@@ -35,6 +35,7 @@ This does not need to be an exhaustive list. We want you to identify major techn
 * knex.js
 * SQL
 * heroku
+* authO
 
 
 ## ERD - Entity Relationship Diagram
